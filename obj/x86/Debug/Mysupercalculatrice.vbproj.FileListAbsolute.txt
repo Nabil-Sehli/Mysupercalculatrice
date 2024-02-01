@@ -1,0 +1,34 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Form.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Resources.resources
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.apropos.resources
+C:\Users\ASUS\Desktop\SUP'ISI\S3\VBNET\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Form2.resources
+C:\Users\ASUS\Desktop\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\Desktop\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\Desktop\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.exe
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\bin\Debug\Mysupercalculatrice.xml
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.apropos.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Form2.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.Resources.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\MYSC\Mysupercalculatrice\Mysupercalculatrice\obj\x86\Debug\Mysupercalculatrice.vbproj.GenerateResource.Cache
